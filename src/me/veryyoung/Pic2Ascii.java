@@ -1,5 +1,6 @@
 package me.veryyoung;
 
+
 import java.awt.image.BufferedImage;
 
 /**
@@ -14,7 +15,11 @@ public class Pic2Ascii {
             .toCharArray();
 
     public static void main(String[] args) {
-        BufferedImage image = Tools.getImage("C:\\8.bmp");
+        if (0 == args.length || args[0].equals("")) {
+            System.err.println("请输入正确的图片路径");
+            return;
+        }
+        BufferedImage image = Tools.getImage(args[0]);
 
         if (null != image) {
             for (int y = 0; y < image.getHeight(); y++) {

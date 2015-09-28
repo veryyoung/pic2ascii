@@ -33,6 +33,8 @@ public class Tools {
         try {
             image = ImageIO.read(new File(path));
         } catch (IOException e) {
+            System.err.println("未能获取到图片");
+            e.printStackTrace();
         }
 
         return image;
