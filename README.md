@@ -6,200 +6,99 @@
  
  运行 Pic2Ascii.java  的 main 方法，并传入图片的有效路径。
 
-
-                                                                                                                                                                                                                               
-                                                                                                                                                                                                                       
-                                                                                                                                                                                                                       
-                                                                                                                                                                                                                       
-                                                                                                                                                                                                                       
-                                                                                                                                                                                                                       
-                                                                                                                                                                                                                       
-                                                                                                                                                                                                                       
-                                                                                                                                                                                                                           
-                                                                                          ^#njQCv!f)\C              *fbp@nb-,                                                                                              
-                                                                                       uk^cIt]mX</Q_fQ(^d       k ,oY(-1^}^_XZb]xd                                                                                         
-                                                                                    1lCf$1OUk)xr,hM>~)+w"++p  d,|^XnBZt\m,(xt%-z^@o$M                                                                                      
-                                                                                          lYj,Y%zn&/ La?f#-loJ,/t\q")uL};@(-1w#                                                                                            
-                                                                                             cw)x(n(ZzlLWvpmI?|{}&[)WL*v?Jqh                                                                                               
-                                                                                             :0%/[QY(<?XhvU+u0@~Lz-*OmZC{{.0                                                                                               
-                                                                                          zv>*vb*~__:#!b8f[i_L[O+W$"df]O#;[\8_.                                                                                            
-                                                                                       ]Xn, qh1n[X***.}Zitl+^IMCk!\r1db\mh?(bt|-1                                                                                          
-                                                                                     MCYJMk;{],"}.a<(ubr0\&_`WO-.c!]^,c$8q8,(i#ibL#)                                                                                       
-                                                                                   !jOBCo+YLj_mur*X`L~kkhQ%qMB[\*1<q\O.~l,|jQ.BW"_M{0M                                                                                     
-                                                                                 W1}iM<zZ;O#*:(/@jfO&YQ];nijn0%'uur*k`W>*z?|`^ucw$ir +aM                                                                                   
-                                                                               -[}vM{i{ax"{`Z,'@!]ZI0W{U@0:M*ip")zz-.I pu\}%lq+>m)k.~j)xc                                                                                  
-                                                                              )".hwYQ-/*xwU{0|BBx/")|#u'M-IJu+o-8zY|!8]a"Q%~CZqB_),jviXpQ;x                                                                                
-                                                                             @!u:/:`^CI8~dU/L!&]Oqd!|f/B$~8%~b[MXx&+MWUf)jI,B*^C$W[hXdX&%]B%                                                                               
-                                                                            {(l&CUmh1Cq,v^r_rlp\cbw+Bj_#Yf8_f'{Q~dOB+aYwQWW%[fmCql,vYMcZ@q]&j                                                                              
-                                                                           rZv+pYa$Jflb:"IC.,J!#UY\+^8<};/c''%oZ0"/Yd"J\,Z(MY#[_\}%o>low|wX+^L                                                                             
-                                                                          |<?h uzj'#8Lc'w;x@1<Z`C)->Qzq`~|      # X]%f.+QI{Y<<}-*B_^,kz.I&`IrUq                                                                            
-                                                                         (&@I+z$.d'w\YMc$| dcJn]t)]"k,Mp          %w#Z>r:&bhr$#<&U1JO$b[uwi^JU8O                                                                           
-                                                                        ~-])kUm?}-L^td[orownQQ~fucC~c                b|xXf(Z*QOw0aB0cZO]I>IxtaC""                                                                          
-                                                                       Q-MbUZOulQ8|Ib@jBba{l*h?rCt+                    pzv$mj\8%~(}?Wb qpQn"z>d]Y.                                                                         
-                                                                      ;bBq1 \/Yn  lX U:X>m,'b+.$&                        hW{]xkuuC!,_W-Yn&C(l+ft._                                                                         
-                                                                      +rq?&Y      O_*d].:M#]`m*                            %j;m0$Bb<k^;   #1[m!{hB,                                                                        
-                                                                     :p-d        Qp]>/Z  /q,-   #;z#                  -Y"b   *~<8n n<$#<     n[chb*8                                                                       
-                                                                    "`          :XM:&j  ?Y8q  ^Z}.<h`a              t_tC#rxc  zI>i  ]L:'u       Yx@n                                                                       
-                                                                               )..YU"   +\   f/nC&tc cr            `wp+d$:h#h   qr   ]qL'          O(                                                                      
-                                                                               $k->a    U   /v? pvW^|< t          u(d}}kB_iCz^    8   |^1I                                                                                 
-                                                                              q+:Ju        UUnu)){;#Wj_]J        lb/`|1kkl~]r-!        >:~!                                                                                
-                                                                             &Z\dY        n(w~U}xWZJ/v$?m       ,[^f>>#Z)}<&! M         "Xd                                                                                
-                                                                             vcx+         fab%!!vjC-f'vXL       zmb0*rQwBpI^-[~b        wm*O                                                                               
-                                                                            ,Yl&/         *:C  ~'xO'8  iQo      uW]  L1x>[C  <p0         {08                                                                               
-                                                                            v",Q         //,     O<    @`}     "Uu    Q>_h   mXdt         ^h*                                                                              
-                                                                           #u%1          hn#            cxt    mIj            wxi         1j.z                                                                             
-                                                                           r#(X          ^,l            |Q"    [k|            b;m          XB!                                                                             
-                                                                          ,MMf~          -]c            JrJ    WC(            1ln          8\v                                                                             
-                                                                          .Jfj           Cn:            >$m    "Y             noW          >a{O                                                                            
-                                                                          \{C:           |^%            #$.    l.             }c^           /fL                                                                            
-                                                                         *tioU           Y~}            tl$   $%{             1*l           i{\?                                                                           
-                                                                         o*[<            :0/            0J:    \fo            }Wx           +Ipi                                                                           
-                                                                         ir:}            :Ib            n1(    >dj            _[:            ,m@                                                                           
-                                                                   q, ~\[?zoq            }Y\            ]x     >+]            ,UQ            bm;*z&                                                                        
-                                                                 nIhpB!-(vM@%            LY'           flu     $"q           ZzYf            /b$xr8hn'Y                                                                    
-                                                                hQo(8t}d"                 t.u          fu+     iavo          !Zl             _bop]&-aQ)!                                                                   
-                                                                !oY\&                     &`%         M)_       [<^         *a,z                 ]?Q"0)\q                                                                  
-                                                              c1Y:u                        }#;        xmZ       M`>          ko                      >p lb                                                                 
-                                                              Mu~Y                         (nh,      @(Y         }tZb      %WzL                        o>d                                                                 
-                                                              !f-                           ["f{[  ?%~&d          p>*u   l>/mo                         @*\o                                                                
-                                                              8Mz                            d1O'BZ>'X$            r?m,dd+J`#                           UY|                                                                
-                                                              ff\                             >)#xZo*0     Q,*_     Ltl<rJ{o                            zBc                                                                
-                                                              >,[                                         W}j t~W     $?#_                              UvW                                                                
-                                                              Um>]                                       iu     pa                                      aI]                                                                
-                                      /av         (@           I-nI                                      :W     Z^                                      ?t+                                                                
-                                    k/j\l'O    ,Xm`B"[L        ]+a~k                       tl            l      #x            Q                        m+^I       1^$8la>      p_^xm                                       
-                                   OcX.ZlLL"   d+x]b~xJM        ~%U#+k[                    '(|           f@     Ja           *or                     rjZ}f       *qiaB:'m-O   &Ja]^x/\                                     
-                                  hMO?WI LB;0 /]CIonU^db)        :Wm``l<"Y]x               d_qv           lB   ff           #|)%             Zp'(0u@1Clc't      x@-++`,_]?"  QWL`qM]*^M                                    
-                                  f|;CwUO]#C[cz~;U`n|*a;\         xcIz&h~[ib                w@\o           j^{uC           W`xJ              dn[|?:/:"~`Z      M*&rkwq@8@j}{1\mm}C`tXol                                    
-                                  1k&aY    aU[Zb      J$%/          o$C>,&&[n                :ql*                        j#r)                kk>lja*ptp       ?tB[(!`    >"a dW    0.J"J                                   
-                                  v/}       {o,        1/,               Q~n'                 1{|1                      biQ`/c               c]ml}w<          f@lm@#      .fWk      \JY'                                   
-                             |!.W ?0v       WU         _I#               %.qM                 Uth'q0                  _|au{pL                L{Z              [JM!h        ^$,       zY[ YZnm                              
-                           `#ori8#C@}        +         kUZ               j1-Q)                 cQmu$!}              O[, qZ{O                `i[               >Jx$;         >        :{Wr?}a+i                             
-                          Oh&j",aQ$8I        p         uXL                '[*8                 c.`~JrxOf.        &Yj_wn8-JC8                b ;               I\*\&         x        hl`0)*0Zko                            
-                          \oY};    [!                  (/B                dm%j                  {k*\fC1k}+rp~':a{-]|Xu`{nvU                 xMZ                Bz*h                  x_}<%k}@;w                            
-                         1_[|b       8                 %hd                M!h8^                 ^i0?}(v]OC>&j\0C;d1;YQ@B\Uw                kh?                 }iX~                 `x     u!?>O                           
-                         ji|}W                        JY?                  r%!&                 ,kY oi\<[t,<*m (dxi 'lc{fc                 J1>                  a:t                         ,a+l                           
-                         <L%U                         'Bk<                 0:]Z                  [--!r%koC1/vw*B_nMYiZt$/k                ><[                   tbpJ                        jWUv                           
-                         8(n>                        /I{bW>,~#BC#           qzkb                 1d*>t^   ;(m)I@  Lfi>^<}W                b $             Cw!u*a^<m}                         u1}/                          
-                         .; lm                       tI!\r(k`xm; |t*^        abf`                x>\)X    }_j L    Xa'"jJj               o8         @"(hn@`rr/>hlaZ?~                       rIYU1                          
-                         }"%!%                          W+CX 0[ro_>o(:u<k    ~*c}                 ?ppWYM     c      ?ri0&                hr*    !W0lBWcj%x:>+!kldi1?i                       pIfq                           
-                          %{@( %                               .h)f]d]+x[>Z!  |@nW                f<}m&Bp _ $/})8J :Zh;>?               +mU  [nXOZ\aLc1# xYB                               `1q+C                           
-                           bI`@iIm                                  %n&-nkM"XJhxC#z               |~ &|~?    ]+,<W d*`olL              [~OBlo8c")far?d                                   jZniMrt                           
-                           ?&`t$                                       Z]0#Xaw.o0bz                $}z`      {nU>   $8/(               i runxBf/~@                                      +L}{:U~                            
-                          d$/,l_                                           YBv#{cJa|               :\)lw     `YoB8  ]\Wi              ,/kj.~'$.                                          #Wz';                             
-                         j1m:m#                                              -WdtM"?q               0^},8    d)Q} ,|_1(h             +!1lC*&                                              %# z:                            
-                         \ipQ.w                                                 [qZr-#I             w)]tO^0]   !){I"OB~             lx!#k{                                                 }M{,                            
-                         ^cL" |                                                   @*JYC<             v|`wOi+  }Un$^wOl             Bh)".                                                   ;'td                            
-                         "ir]^(                                                     Yao}U             0Qqx_.xot/f`?B+%           *\w,8J                                                    n'[`                            
-                         -^)aCz8    /                                                &.J'X^           k$If1jB80a:fi|w           $wIua                                                      |ZZf                            
-                          UwXnkI"Mp+                                                  <J Uc&            "/L"BX*~Y:k\          :Z+C,|                                                 W   :dB_+Y                            
-                           tx_#0]?Qx                                                    )''<t|           p"I!p{Z'm          / n_U_                                                    >pz(.oal%                            
-                             z;x*(+         )                                            _f']C)i                          (,uhq&w                                                     @^;It>c                              
-                              IpC1_        %#W                                             !:#jh&&I                    {t+r:x/B                                             .M         {*h                                 
-                             d$BOIk        :C]\^                                            ?~Yo:1lUqU%B          <)pxuMfOlBn#                                             v>@B        ~)WO                                
-                             X_oZW!       k[qoqnu                                           8)8}1vZi[-:I1`j"Jf!%L1*qvCcz8YCtlW                                           ,"@z`zJ       (c+)                                
-                             lvq,fL~     C-X)}`&JQO                                        lxJL  <""ctMJ+p1ut(M@*#_;^C}j%  'bQ                                          X'ih8$\lk     ~rM0L                                
-                              $ b*$c?.i!$oBw% rx.%w(                                       Bw{Z    )UuYli{Mdc8@qa)~)BJk    hjbQ                                       <vlI[  Of`?t   kp!.!|                                
-                              X&?wY id8:0;zt   #BC*(/                                      r@[j   ||&w              fBj    -rro                                      rr:w,    8}wWC<QW)<~tt                                
-                               b+b_l'~~\,[>     vnjn>dm                                    htw    ac!a              a-Y}   ><:]                                    b&`coo     ),mkba}{>-c0+                                
-                                 cX!f't]@+        >) @tr?                                 Wjt'    )?w               tluJ    f|^                                  i|J+UC         .vX\~|$[Wj                                 
-                                   l}L8`           L|#{;("]                               aQ:.    a<i                #t;    JYJ'                               a0;*'[8           lX''WzOq                                  
-                                                     O-U+k_QU                             :u.&   +n"_                @|+    /?^w                             `tzXUq@                                                       
-                                                      ]I[w>"Up:                          "hkp    "$%)                }Z]+    )+B                           cpbkocQl                                                        
-                                                        acz~C'tw#                        ot>     J$.,                J$O/    Lla>                        ]jW{OBj8                                                          
-                                                          .^_"lItml-                     8%Zt   M##?                  bW@    oW1>                     >kl-m:~1v                                                            
-                                                            )$c;?o.\>%]                 &^/u    ~M:]                  ]?hQ   Z{xX                  b;*&>q vW%                                                              
-                                                               wO*znwi1#}b8             LB%+    aBCM                  />)&    d-XJ             jto/U%0vraL[                                                                
-                                                                 Ip#Z!@|pYjc*8c0_<'     izX    ]@j-m                  .I@Q    ~r-&     |*&/&wckmpiIw%]X]                                                                   
-                                                                     }JrwXM'cw#zpYz    [a(\    czI^                    aZBj   "`!Y'    I;>0)v^_}#%x)tb                                                                     
-                                                                        'Wh|?+[l`0h    ]uL     Yq#,                    f8nz    jhUZ    l+)mtW;cb>^                                                                         
-                                                                             ]x}wU#   Y|ui    1+ )l.[v')l`^znMd}&U#0)O r&w/    *|dc^   /r;)                                                                                
-                                                                               [kq:  vYUI     f%IXd'_hYucpr.C&d+)[xx(/-\`[kr    0]b    J\z                                                                                 
-                                                                               vXm(  ,0|%     a_q@dliX^0b Z@dlf~>Qd}h~wj~[#(     !]1m  !pLu                                                                                
-                                                                               uo/j "W+}       r ?laU~>O:b<vmu~!Iz%m>hhZ+"{B     %1$p  h'"^                                                                                
-                                                                               fpmX lx,h                                          0J*l o+!(                                                                                
-                                                                               ujp!Mu "                                            p*{()hl-                                                                                
-                                                                               jkY!!^<                                             _`1Xvo[1                                                                                
-                                                                               >|U<!m      dtUWJ{@ Z\w_`oo'huoWp1,{Yt.+v0U bM@      w#QrhLo                                                                                
-                                                                              a|;;/!      @[!|'p`>hb{#JWbIhl;8o>^,,8uoc-?t8I-x]      j'fL'                                                                                 
-                                                                             dp;q1U      "n}"Zn1;#bliwuw';z/_+~{uWUiro8jra {+Jm%      zL<_d                                                                                
-                                                                           |\(rq/8      fCa.'{ik!Chqj?uxm@h}/U}#&~j){U!{$+Bt'XOwc      Wb*Z[M                                                                              
-                                                                          WlLv_+       nt%10"U                               }-l0.      _(p<r                                                                              
-                                                                          L$u/B       )L%k|C                                  `ULIB       `;:)                                                                             
-                                                                         qWBM&       &mvO(I      w})?^}"]B&>[CUxr$Lt1:C        ~khJYk      O|J?                                                                            
-                                                                         Q}(%(      &hmr1h@      aU+"?h{p\?l\&^w_UBXzfU:;       ~MfYl'     O&qq                                                                            
-                                                                         ?|$%M    L_?8;m`        nI#;u.qm\._w}|%n "r/w^zz        Wj+,& i    OMM                                                                            
-                                                                          uhqBL@B0~L/%Qm         UzQ}&I@p?b.>^~dMW`|1](o-         0o>:'>&i  `]o                                                                            
-                                                                           ]O]CL{hca^XI          w"%hQWLd}}U:zjYcWzf8p?_m           zY?!WBi/Ylf                                                                            
-                                                                            ;)!c+0f@(           Wz[*!|LCd     LIU> *wv?8L            }bu[M8f$|                                                                             
-                                                                             w&c^m              8Y?Wvh}#           Z j+nq              c0r{M                                                                               
-                                                                              +#;M               O)~'^"~(      qpn d8j1.w              +O}>@                                                                               
-                                                                              xcu<               U>&br(l#     <}qbxrBz@;r              p,@+L                                                                               
-                                                                              1m;[               :[{Cz[f  r  O  o  hXf|*!              >cwh+                                                                               
-                                                                              +Cl>^              >l)? -{Q       BM0<~L](               !Bp8:                                                                               
-                                                                              ;X/bB               #dz*/>m0      B[ZX<jQb               Yuh);                                                                               
-                                                                              p[x$^p              w>\(-`\O:u LwZ,c;<OZ!                O]i@                                                                                
-                                                                               f''jk0w(Q0J*        (".Y!$ Xj~?>wc<p`{v8          rai) .Ia^z                                                                                
-                                                                               `zja%:z'8,<boWmI     %YMjt%ujv}d{Bb8fi/      ;)abUa\onpi@n`$                                                                                
-                                                                               :>J\1J'}Ut.:{II>     0X:W(M)(rW&/u]UiZ/   B)X^-!+%u-"^v@C*[                                                                                 
-                                                                               8+I}mcw`C+](nlUfCq*    _ZI}o(X!{_B.[a    ]v--W'Iz^(]O\umfz^q                                                                                
-                                                                              !On8-[r      b/Ux+U:Ol   d_Cqj/t0_[zM   %'8t[:>b>fqu'|8?U. n^^t                                                                              
-                                                                             %nw>0            >k,u:}      Jm%;pkn    'WukU|;u!         f&[u{d                                                                              
-                                                                            I8!.v               ~|zO{               w,U'o8t              wv!OB                                                                             
-                                                                            0'&0                 }B,h}             ,u]x'_J                }UC"                                                                             
-                                                                           n*+                    -auvI           %h<B/->                  n{8h^                                                                           
-                                                                          lM}.                     Cdj'           [OW#Cc                    MfIC>                                                                          
-                                                                         1.U?                       bdZh         ($B"cJ                      p{?@                                                                          
-                                                                         dww                        " L<         |Wo#wk                       |mzu                                                                         
-                                                                        O cZ                         x~O$        `k Q/                        ;*.j%                                                                        
-                                                                        ${MQ                         $-[o       qZbBpa                         Y>*r                                                                        
-                                                                       k?^)                          U0z@b`(<1+, u`#;                          _&rW                                                                        
-                                                                       -oh+                          n$M$*;U?jb }']$)                          v-r?-                                                                       
-                                                                       ]h!(                          [:%,:r?ZnBY{-h>?                           jd</                                                                       
-                                                                      ^O+\                            hL[l?k^c'.nQwiq                           %(ZQ                                                                       
-                                                                      %#QB                            Iq0w>Z`*J<%|x#X                           k*$/:                                                                      
-                                                                      U!CM                           bBoo        >>U8                            M#`8                                                                      
-                                                                      }*;<                           I~nr        }I{m                            Mix_                                                                      
-                                                                      X};.                           _Z@~         'I}Q                           0kJ8                                                                      
-                                                                      LW                            aa`U          q(Z'                           ZU:1                                                                      
-                                                                     \o])                           x]&"          M#dqo                          kv^`                                                                      
-                                                                     |<:x                          @U\QX           Iww[m                         l)"aO                                                                     
-                                                                     ;8(@                         $+%/?             j_`10                         $bbr                                                                     
-                                                                    `;.iO                        b)^opY             h<{|1z                        J8JfZ                                                                    
-                                                      o@vn8@uC'%i\!1.L0<                        %ObnBI               f8b]a*                       r)u)+u   hJj$u+                                                          
-                                                 "&r%l(|o\!cfBb-,Zt;/%\                        \{:haM                 .'!Y"$                       :u'#/[t}O<\}b:<jU${)}                                                   
-                                              v-UW00J]!_;ov^|Bi:8~o&~-                       <~L{Z(`                    _Jk0}                       W&]".xO%@Z>h@.jU(WY<Ii                                                 
-                                             iQq}Y*qOIr#                                    uc+]XW[                      8".Zh                        ;whMfMJc{UzhvI0mWO80 w                                               
-                                            i,UmU}_x                                       *"#0!i                         m&}r[                                     ~i)qMjJpX                                              
-                                            Wm#ovJ                                        aq<~uJ                           0)b)}                                        qx`Yf"                                             
-                                           hh}zp                                          ?"B(J                             viQ~\                                         1M|-m                                            
-                                           >C^?    %o                                    ))WMm                               l_'`                                     <    0uXrw                                           
-                                           vI!Z   bx                                     ,;j>Y                                J_]~                                    pIx   zzkC                                           
-                                           ;x:c  #8                                      _u?$                                 ?Jj}                                     _q"  bU]t                                           
-                                           k`c,qX)    O&                                x^0:8                                  uJu                                       Ik Bq/)                                           
-                                            "M'`     %U                                 Op{0                                   ?\x                                 X]\    {{cwz                                            
-                                            1?~]   ~]X                                  M]]"                                   !%x                                  (a'    dqJ0                                            
-                                            J$Yh  ^*                                    /Jv<                                   M::                                    +X   fhtw                                            
-                                            $Cii[lj      <Q                              ^^f                                   O/~                              *u     .C< 1$"1                                            
-                                            h/^'(rY     L@                               d[p                                   ^!0                              ]+o     ${ddlhm                                            
-                                             uQ;8,     d&                                ]vk                                   []`                               I8h     ? M{t                                             
-                                              O^/Z   "_                                  rX^t                                  ~zW                                 Ma    "},-                                              
-                                               /,JoYbL      1B                          lf8b                                   Om*                                  ;.   $o~                                               
-                                               _;'|Q^      ` /                          '`a:                                   O0qp                          o'      q\^\o0!                                               
-                                                'c[Q1     $>x                         >[')Uw                                   ;".Jm                         _|(      m*i;L&                                               
-                                                 IIn'   a|r                    Oxu`YX_l<l%#                                    q["qa*v                        iOY     *kp_r                                                
-                                                 ,%X\o XCM              ~?\0vkv%[1b)?,k[M*Z                                     dQYXoiO8rlbJ-#m.                +an   W\L.                                                 
-                                                 Ck'\%&no            "oI`-1CI8+rW *Oxu1d(                                        :'Mqm}Z~Lf`v"mwU);M             zQ~cp.UxZ                                                 
-                                                 <p"L8`(           W- r;X<C]fQI`tYhU+dzZ                                           muw%Wh8CQZ~ >l|lW0^            vb!.)v|a                                                 
-                                                  i`MZo.          Irf'O |W"'L!n<m$qX*                                                  x(hqI}/j{irj\UBXp           M-ai\)                                                  
-                                                    L-U~        ^(z -!Zd)#u                                                                     `B$Za$+r`          oxI(r                                                   
-                                                    Z_{o        _L^ZJ-l1                                                                           (/-*$+]/        O;b:                                                    
-                                                    */!B+    ^-t"Jj/(r                                                                               }U^][fw       (+]d                                                    
-                                                    vi! i[ubi%((@awx/                                                                                  %:dYCwMi   Lc@),                                                    
-                                                    &:c[$i.q^#_wI{U                                                                                     +}b&jj:w{` ~%;z                                                    
-                                                     %*#f@LI(.;+mh                                                                                       i!1,fY8Z(m_}O                                                     
-                                                       _$>ZQU!X;                                                                                           `%$(#pm<f?c                                                     
-                                                       ]J:C</%                                                                                                ^"_-8[n                                                      
-                                                                                                                                                                                                                           
-                                                                                                                                                                                                                           
-                                                                                                                                                                                                                           
+    
+                                                 vb`                                                            
+                                             a(M\C&,Cv(   'I."^z:Y@8                                            
+                                                pXjZ?huc'f\M#8}kw                                               
+                                                 qb-@[!XB\<?1r?jh                                               
+                                             ,0Yn@m!xIM@cIk1%i}^Yr[                                             
+                                           "_,)8nC]-!'cfJqqn#Yax*qi"U?                                          
+                                          Y,?&`\;z)'f<h*r@`X+ ;cZizIbWr                                         
+                                        Y[{n#Q$ n|o"Ua{+rqcwOl]oJW{o kL.b                                       
+                                       ]Z$?+IL@1)1m/.~fq (BLf&W/Z}%(uI1zk'                                      
+                                      ~C&|niZ-BL_Mt/\O      ;/,jQ,Oi}XXt;1m                                     
+                                     z`*{"#(8C_Lxx]           <h'0Y18{']0">                                     
+                                     *o~   @z!*,`               b"a<!O  )M_&                                    
+                                          cl8 *h U.}!#      Y%<i  +  wo    W:                                   
+                                         ,';    noOj;Y     ||l?[+    pb                                         
+                                         w{    Z!tu|C*+   t#d,#//a    Ir                                        
+                                        Wh     ~; cb  |   C; X+] B     `@                                       
+                                        (<     /      {|  \      -u    {I                                       
+                                       hm      }      rr  m      p:     %v                                      
+                                       f0      &      +@ )X      :[     +1                                      
+                                       -U      +      II  C      <(      ?                                      
+                                   \~c}+>      0      k   B      WJ      @b#"                                   
+                                  8`v1         u}    w_   bh     ?       &|h:(X                                 
+                                 :"x           O#    L"   _d    b+           ;j                                 
+                                 lq             "ud}O.     &:icq!             >r                                
+                                 `?              \;j_   /z  b+ca               }                                
+                                 ](                    q  /                   (t                                
+                    {,lY  Z+i\    {*            ~      l  ;      k            d<   1"O[   dfU                   
+                   'f"|+~0lU&B:    &Q/%"        uh     ) )j     o*       +,}^z~   QYL?O\ fpQ.i                  
+                   o*   "#   <r     U%omY        .k            *'        '~b)O    Y!0  Co*  }@                  
+                )0\0.   u     :        d/        )>W         ^<Xv        .       [ <    %    1\[-               
+               qMlJZ:         %        a)         vcdod    aj(a<        h\       p.?    B    qodoU              
+               J;            Zv        [/X        fI~<{%ZB_Mc;Lo        j         *x            k.              
+              qqt            %C         jh         %a~Lajppqp\{        xm         $h             Wp             
+               b             Zn!(~z!z    '         %r , xwC;&}*        o    U+B$_pt]}            xv             
+               #z$                M?rZ?O ?d        q.hq ;& qr;+       aJ+q_')W[?                <B              
+               Y@@                    B<.$z}        Z,p kt)L\]        'C["&                    CMp              
+               cq                        :+vm       <O}<X,]\M~       hOL                        I(              
+              {M'                          c&$       <_*<d#ll       |o                          .{              
+               tqW                           o],     p{+W8Y;d     u#}                           bf              
+               lU`<~                          !k?      /:%Q     Qa}                          rQlfk              
+                 []     t                       Q`l"         Z kW0                      -     f"                
+                 0 i   Xr<"                     |k|.Cm!]f}'o"M<@"                      &w|    L*                
+                 ]X B!:) oum                    zW UwrU@!jnUol  $I                   +u{ "c+ jOj                
+                  hb$?0;  m^lJ                  t  *m       Wf  Cz                  M \   wf/?(?                
+                    n<      Cj'Y               Zh  jl        z  *.                xzC      q@!8                 
+                             iX`+X             C}  o?        }$  h              Y0?k                            
+                               X1#\w           :m 8b         ai  J!          [+>Q)                              
+                                 u{a8_|B      o(  ;p         lI  <J       (.d|~t                                
+                                    o[fa% Y@  mM  Ia          Zz @)'  o%|Ydt(                                   
+                                         0w' %0   */aWmr+p|WI)U/  8a  Lo                                        
+                                          >J `0  h1>YB_/vCL(}vl-   a@ $j                                        
+                                         n[?<>                     Lo \w                                        
+                                         :x0l                       d}|b                                        
+                                         1$Z?  0t]-,{ a#0mC^<hi_bM   Y:^                                        
+                                        Z.]   c+tp^r%<^c^v#`|fak\W.   $Cj                                       
+                                       U%:   rji8                ow@   |#                                       
+                                       C*   L$"-  M|z#r{;q,ZWLc   ,"X   I/                                      
+                                       X1Q+L>j    O:InZ\rXdnIB,    b;c% ^(                                      
+                                        lW/%%     o]@+w.`0:Z/!c      {@\"                                       
+                                         >_       :$^;\r  <Z~tY       0w                                        
+                                         U~        "wlI   (#"kn       "`                                        
+                                         vO%       %krl,BwvY-i        r'                                        
+                                         &n];(O{   d]lrC"^Qxiw     `"'+}                                        
+                                          "?+$Yah}f ~ha}M18v'  f<aZkvJUL                                        
+                                         [/^C  cu,jt  U%c?I@ B*@m1z`UL/$                                        
+                                        %;;       [;X       -`dk       8o                                       
+                                        l          %;j     M%av         Q}                                      
+                                       t1           },     Q:u           |(                                     
+                                      q_            umM   ~o}            !n/                                    
+                                      Jm             r+o:kW"%             L~                                    
+                                      O              !lc>Y|8p              n                                    
+                                     [o              O}#nd*[(             +JC                                   
+                                     CL              k\    lj              ^j                                   
+                                     wL             %L     h_              M1                                   
+                                     |O             Z^      fJ             _;                                   
+                                    -(^            :|0      'ql            pn8                                  
+                           MvI!J{%!W*{            ^ln        a$C            ?vW0<Wp.>i                          
+                         bZ/b[/    &            }Bt|          kwY            pcuQ@-)k{"c                        
+                        %Xr                    `lj              `}                    1Q}                       
+                       B1q  t                  +M8               >I                     ZB                      
+                       8w  q                  &c:                >c                   f  B                      
+                        t*<  #                ui                  c                 k  -]O                      
+                        Q{ `o                 Wb                  k;                 Z  ~x                      
+                        :]Xq  (,               |                  C               }&  `[,'                      
+                         jz  1                 #                  ^                _)  %*                       
+                          I0>   c             rZ                  t(             ;   J?ql                       
+                          wm+  M           qkl{I                  n&\            oi  .8a                        
+                           _)8d      $mqvuW{Zfk                    (XO_l&]Iu       c+m*                         
+                           %Lr     Yu@YBrL<v/                        QWh} fpjx      xXw                         
+                            LI    ]Bv?n                                    _oh.     !M                          
+                            %~ ##C:*&                                        }hJ%  -`/                          
+                            -;qL-t/                                            h" .l#8                          
+                             1:q|`                                               qJ;$                           
+                                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                                                                                                                           
