@@ -26,6 +26,7 @@ public class Pic2Ascii {
                 for (int x = 0; x < image.getWidth(); x++) {
                     int index = (int) (Math.random() * defaultCharacters.length);
                     System.out.print(Tools.isBlack(image.getRGB(x, y)) ? " " : defaultCharacters[index]);
+                    System.out.print(Tools.isBlack(image.getRGB(x, y)) ? " " : defaultCharacters[index]);
                 }
                 System.out.println();
             }
